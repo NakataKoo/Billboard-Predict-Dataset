@@ -31,7 +31,7 @@ The dataset is in CSV format and includes 214 columns, covering a range of featu
 ## Data Collection Methodology
 Acoustic, charting, and lyrics data were systematically collected using Spotify and Billboard and Genius APIs.
 
-The data was also obtained from Chordify by scraping the chord progression information into features.
+The data was also obtained from [Chordify](https://chordify.net/) by scraping the chord progression information into features.
 
 This dataset was balanced for the distribution of songs over the years. Audio features, metadata from Spotify, chart information from Billboard, and other derived features were combined to create a comprehensive analysis tool.
 
