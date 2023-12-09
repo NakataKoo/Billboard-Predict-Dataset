@@ -4,7 +4,7 @@ Dataset for Billboard charting predictions.
 This dataset includes a comprehensive collection of songs from the US market, released between 2000 and 2020, obtained using the Spotify and Billboard APIs. The dataset contains 15,951 tracks, with a focus on analyzing the characteristics that may influence a song's success in the Billboard charts.
 
 ## Data Description
-The dataset is in CSV format and includes 214 columns, covering a range of features such as:
+The dataset is in **CSV** format and includes 214 columns, covering a range of features such as:
 
 - release_date: The number of days since the song's release, a continuous variable.
 - length: The duration of the song in milliseconds.
